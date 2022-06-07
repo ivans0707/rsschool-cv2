@@ -19,5 +19,4 @@ basic education (9 grades, then I study at school)
 tow html curses
 ## English
 A1 there is a practice of communication with native speakers
-rsschool-cv
-nastusha23.github.io
+rsschool
